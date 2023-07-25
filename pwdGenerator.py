@@ -13,4 +13,5 @@ def pwdGen(num_of_letters, num_of_digits, num_of_special_characters):
     print("Random Password: ", pwd)
 
 # enter number of letters, numbers, special characters to generate password of desired length
+# (number of letters, total numbers, total special characters)
 pwdGen(20, 3, 4)
